@@ -9,18 +9,12 @@
   "createdDate": "2018-05-04T03:32:40.000Z",
   "datasets": [
     {
-      "id": "0Fb7F0000004MQlSAM",
-      "label": "Opportunities",
-      "name": "opportunities",
-      "url": "/services/data/v42.0/wave/datasets/0Fb7F0000004MQlSAM"
+      "name": "${App.EdgeMarts.opportunities.Alias}"
     }
   ],
   "files": [],
   "folder": {
-    "id": "00l7F0000012uruQAA",
-    "label": "ABCD",
-    "name": "ABCD",
-    "url": "/services/data/v42.0/wave/folders/00l7F0000012uruQAA"
+    "id": "${App.Folder.Id}"
   },
   "id": "0FK7F000000mrQdWAI",
   "label": "april1525404758849",
@@ -84,7 +78,7 @@
         "broadcastFacet": true,
         "groups": [],
         "numbers": [],
-        "query": "q = load &quot;opportunities&quot;;\nq = group q by &#39;AccountId&#39;;\nq = foreach q generate &#39;AccountId&#39; as &#39;AccountId&#39;, count() as &#39;count&#39;;\nq = order q by &#39;AccountId&#39; asc;\nq = limit q 2000;",
+        "query": "q = load \"opportunities\";\nq = group q by 'AccountId';\nq = foreach q generate 'AccountId' as 'AccountId', count() as 'count';\nq = order q by 'AccountId' asc;\nq = limit q 2000;",
         "receiveFacet": true,
         "selectMode": "single",
         "strings": [],
