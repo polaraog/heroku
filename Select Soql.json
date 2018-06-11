@@ -1,0 +1,347 @@
+{
+  "allowPreview": true,
+  "assetSharingUrl": "https://pola12345-dev-ed.my.salesforce.com/analytics/wave/dashboard?assetId=0FK7F000000mgiHWAQ&orgId=00D7F0000049GUW&loginHost=ap5.salesforce.com&urlType=sharing",
+  "createdBy": {
+    "id": "0057F000002SKfGQAW",
+    "name": "g p",
+    "profilePhotoUrl": "https://pola12345-dev-ed--c.ap5.content.force.com/profilephoto/005/T"
+  },
+  "createdDate": "2018-04-18T12:57:18.000Z",
+  "datasets": [
+    {
+      "id": "0Fb7F0000004MKtSAM",
+      "label": "Wave_Sample_Opportunities",
+      "name": "Wave_Sample_Opportunities",
+      "url": "/services/data/v42.0/wave/datasets/0Fb7F0000004MKtSAM"
+    }
+  ],
+  "files": [
+    {
+      "contentType": "image/png",
+      "fileLength": 13472,
+      "fileName": "assetPreviewThumb",
+      "id": "0FJ7F000000kIB6WAM",
+      "lastModifiedDate": "2018-04-18T13:01:39.000Z",
+      "url": "/services/data/v42.0/wave/lenses/0FK7F000000mgiHWAQ/files/0FJ7F000000kIB6WAM"
+    }
+  ],
+  "folder": {
+    "id": "00l7F000000e8EEQAY",
+    "label": "MDP",
+    "name": "MDP",
+    "url": "/services/data/v42.0/wave/folders/00l7F000000e8EEQAY"
+  },
+  "id": "0FK7F000000mgiHWAQ",
+  "label": "Select Soql",
+  "lastAccessedDate": "2018-06-07T05:28:00.000Z",
+  "lastModifiedBy": {
+    "id": "0057F000002SKfGQAW",
+    "name": "g p",
+    "profilePhotoUrl": "https://pola12345-dev-ed--c.ap5.content.force.com/profilephoto/005/T"
+  },
+  "lastModifiedDate": "2018-04-18T12:57:18.000Z",
+  "mobileDisabled": false,
+  "name": "Select_Soql1",
+  "permissions": {
+    "manage": true,
+    "modify": true,
+    "view": true
+  },
+  "refreshDate": "2018-01-08T10:41:33.000Z",
+  "state": {
+    "dataSourceLinks": [],
+    "filters": [],
+    "gridLayouts": [
+      {
+        "maxWidth": 1280,
+        "name": "Default",
+        "numColumns": 40,
+        "pages": [
+          {
+            "label": "Untitled",
+            "name": "a3e27b10-9491-4623-9af3-9421bf92d4e9",
+            "widgets": [
+              {
+                "colspan": 40,
+                "column": 0,
+                "name": "container_1",
+                "row": 0,
+                "rowspan": 11,
+                "widgetStyle": {
+                  "backgroundColor": "rgb(8, 30, 41)",
+                  "borderColor": "rgb(216, 221, 230)",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 12,
+                "column": 7,
+                "name": "text_7",
+                "row": 12,
+                "rowspan": 3,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(9, 26, 62, 0)",
+                  "borderColor": "rgb(237, 235, 232)",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 2
+                }
+              },
+              {
+                "colspan": 30,
+                "column": 7,
+                "name": "text_8",
+                "row": 15,
+                "rowspan": 14,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 34,
+                "column": 6,
+                "name": "container_2",
+                "row": 11,
+                "rowspan": 38,
+                "widgetStyle": {
+                  "backgroundColor": "rgb(225, 243, 251)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 8,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 6,
+                "column": 0,
+                "name": "container_6",
+                "row": 11,
+                "rowspan": 62,
+                "widgetStyle": {
+                  "backgroundColor": "#F2F6FA",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 4,
+                "column": 1,
+                "name": "text_12",
+                "row": 13,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "#FFFFFF",
+                  "borderColor": "rgb(0, 112, 210)",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 4
+                }
+              },
+              {
+                "colspan": 4,
+                "column": 1,
+                "name": "link_1",
+                "row": 19,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "#FFFFFF",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 4,
+                "column": 1,
+                "name": "link_2",
+                "row": 26,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "#FFFFFF",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              }
+            ]
+          }
+        ],
+        "rowHeight": "fine",
+        "selectors": [],
+        "style": {
+          "alignmentX": "left",
+          "alignmentY": "top",
+          "backgroundColor": "#FFFFFF",
+          "cellSpacingX": 0,
+          "cellSpacingY": 0,
+          "fit": "original",
+          "gutterColor": "rgb(8, 30, 41)"
+        },
+        "version": 1
+      }
+    ],
+    "layouts": [],
+    "steps": {
+      "Grouping___Compariso_1": {
+        "broadcastFacet": false,
+        "isGlobal": false,
+        "label": "Grouping - Comparison 1 Measure",
+        "selectMode": "singlerequired",
+        "start": "{&quot;display&quot;:[&quot;Top&quot;]}",
+        "type": "staticflex",
+        "useGlobal": false,
+        "values": [
+          "{&quot;display&quot;:&quot;Top&quot;,&quot;value&quot;:false}",
+          "{&quot;display&quot;:&quot;Worst&quot;,&quot;value&quot;:true}"
+        ]
+      },
+      "Vis___Compariso_1": {
+        "broadcastFacet": false,
+        "isGlobal": false,
+        "label": "Visualization - Comparison 1 Measure",
+        "selectMode": "singlerequired",
+        "start": "{&quot;display&quot;:[&quot;Bars&quot;]}",
+        "type": "staticflex",
+        "useGlobal": false,
+        "values": [
+          "{&quot;display&quot;:&quot;Bars&quot;,&quot;value&quot;:&quot;hbar&quot;}",
+          "{&quot;display&quot;:&quot;Columns&quot;,&quot;value&quot;:&quot;vbar&quot;}",
+          "{&quot;display&quot;:&quot;Horizontal Dot Plot&quot;,&quot;value&quot;:&quot;hdot&quot;}",
+          "{&quot;display&quot;:&quot;Vertical Dot Plot&quot;,&quot;value&quot;:&quot;vdot&quot;}"
+        ]
+      },
+      "Product_Name_1": {
+        "broadcastFacet": true,
+        "datasets": [
+          {
+            "id": "0Fb7F0000004MKtSAM",
+            "label": "Wave_Sample_Opportunities",
+            "name": "Wave_Sample_Opportunities",
+            "url": "/services/data/v42.0/wave/datasets/0Fb7F0000004MKtSAM"
+          }
+        ],
+        "isGlobal": false,
+        "query": {
+          "query": "{&quot;measures&quot;:[[&quot;sum&quot;,&quot;Amount&quot;]],&quot;groups&quot;:[&quot;Product_Name&quot;],&quot;order&quot;:[[-1,{&quot;ascending&quot;:&quot;{{cell(Grouping___Compariso_1.selection, 0, &#92;&quot;value&#92;&quot;).asObject()}}&quot;}]]}",
+          "version": -1
+        },
+        "receiveFacet": true,
+        "selectMode": "multi",
+        "type": "aggregateflex",
+        "useGlobal": true,
+        "visualizationParameters": {
+          "options": {},
+          "visualizationType": "hbar"
+        }
+      }
+    },
+    "widgetStyle": {
+      "backgroundColor": "rgb(2, 34, 66)",
+      "borderColor": "#E6ECF2",
+      "borderEdges": [],
+      "borderRadius": 0,
+      "borderWidth": 1
+    },
+    "widgets": {
+      "container_1": {
+        "parameters": {
+          "alignmentX": "left",
+          "alignmentY": "bottom",
+          "fit": "fitwidth",
+          "image": {
+            "name": "soqlpng5",
+            "namespace": ""
+          }
+        },
+        "type": "container"
+      },
+      "container_2": {
+        "parameters": {
+          "alignmentX": "center",
+          "alignmentY": "bottom",
+          "fit": "stretch",
+          "image": {
+            "name": "soql_back_groundjpg4",
+            "namespace": ""
+          }
+        },
+        "type": "container"
+      },
+      "container_6": {
+        "parameters": {
+          "alignmentX": "left",
+          "alignmentY": "top",
+          "fit": "original"
+        },
+        "type": "container"
+      },
+      "link_1": {
+        "parameters": {
+          "destinationLink": {
+            "name": "New_dashboard"
+          },
+          "destinationType": "dashboard",
+          "fontSize": 12,
+          "includeState": false,
+          "text": "Purpose of SOQL",
+          "textAlignment": "center",
+          "textColor": "#335779"
+        },
+        "type": "link"
+      },
+      "link_2": {
+        "parameters": {
+          "destinationLink": {
+            "name": "Charts"
+          },
+          "destinationType": "dashboard",
+          "fontSize": 12,
+          "includeState": false,
+          "text": "Charts",
+          "textAlignment": "center",
+          "textColor": "#335779"
+        },
+        "type": "link"
+      },
+      "text_7": {
+        "parameters": {
+          "fontSize": 20,
+          "text": " Salesforce Object Query Language ",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "text"
+      },
+      "text_12": {
+        "parameters": {
+          "fontSize": 12,
+          "text": "Introduction",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "text"
+      },
+      "text_8": {
+        "parameters": {
+          "fontSize": 14,
+          "text": "Salesforce Object Query Language (SOQL) Use the Salesforce Object Query Language (SOQL) to search your organization&#39;s Salesforce data for specific information. SOQL is similar to the SELECT statement in the widely used Structured Query Language (SQL) but is designed specifically for Salesforce data.A SOQL query is the equivalent of a SELECT SQL statement and searches the org database. SOSL is a programmatic way of performing a text-based search against the search index. Whether you use SOQL or SOSL depends on whether you know which objects or fields you want to search, plus other considerations.",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "text"
+      }
+    }
+  },
+  "type": "dashboard",
+  "url": "/services/data/v42.0/wave/dashboards/0FK7F000000mgiHWAQ"
+}

@@ -1,0 +1,154 @@
+{
+  "allowPreview": true,
+  "assetSharingUrl": "https://pola12345-dev-ed.my.salesforce.com/analytics/wave/dashboard?assetId=0FK7F000000mgiCWAQ&orgId=00D7F0000049GUW&loginHost=ap5.salesforce.com&urlType=sharing",
+  "createdBy": {
+    "id": "0057F000002SKfGQAW",
+    "name": "g p",
+    "profilePhotoUrl": "https://pola12345-dev-ed--c.ap5.content.force.com/profilephoto/005/T"
+  },
+  "createdDate": "2018-04-18T12:57:17.000Z",
+  "datasets": [],
+  "files": [
+    {
+      "contentType": "image/png",
+      "fileLength": 11074,
+      "fileName": "assetPreviewThumb",
+      "id": "0FJ7F000000kIB1WAM",
+      "lastModifiedDate": "2018-04-18T12:58:24.000Z",
+      "url": "/services/data/v42.0/wave/lenses/0FK7F000000mgiCWAQ/files/0FJ7F000000kIB1WAM"
+    }
+  ],
+  "folder": {
+    "id": "00l7F000000e8EEQAY",
+    "label": "MDP",
+    "name": "MDP",
+    "url": "/services/data/v42.0/wave/folders/00l7F000000e8EEQAY"
+  },
+  "id": "0FK7F000000mgiCWAQ",
+  "label": "Purpose of SOQL",
+  "lastAccessedDate": "2018-06-07T05:27:58.000Z",
+  "lastModifiedBy": {
+    "id": "0057F000002SKfGQAW",
+    "name": "g p",
+    "profilePhotoUrl": "https://pola12345-dev-ed--c.ap5.content.force.com/profilephoto/005/T"
+  },
+  "lastModifiedDate": "2018-04-18T12:57:17.000Z",
+  "mobileDisabled": false,
+  "name": "Purpose_of_SOQL",
+  "permissions": {
+    "manage": true,
+    "modify": true,
+    "view": true
+  },
+  "state": {
+    "dataSourceLinks": [],
+    "filters": [],
+    "gridLayouts": [
+      {
+        "name": "Default",
+        "numColumns": 49,
+        "pages": [
+          {
+            "label": "Untitled",
+            "name": "33bad443-ce2e-4e7b-921e-9eb426b15b20",
+            "widgets": [
+              {
+                "colspan": 49,
+                "column": 0,
+                "name": "container_1",
+                "row": 0,
+                "rowspan": 37,
+                "widgetStyle": {
+                  "borderEdges": []
+                }
+              },
+              {
+                "colspan": 49,
+                "column": 0,
+                "name": "text_1",
+                "row": 7,
+                "rowspan": 11,
+                "widgetStyle": {
+                  "backgroundColor": "rgb(36, 169, 237)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 49,
+                "column": 0,
+                "name": "text_2",
+                "row": 0,
+                "rowspan": 7,
+                "widgetStyle": {
+                  "backgroundColor": "rgb(38, 167, 252)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              }
+            ]
+          }
+        ],
+        "rowHeight": "fine",
+        "selectors": [],
+        "style": {
+          "alignmentX": "left",
+          "alignmentY": "top",
+          "backgroundColor": "#F2F6FA",
+          "cellSpacingX": 0,
+          "cellSpacingY": 0,
+          "fit": "original",
+          "gutterColor": "#C5D3E0"
+        },
+        "version": 1
+      }
+    ],
+    "layouts": [],
+    "steps": {},
+    "widgetStyle": {
+      "backgroundColor": "#FFFFFF",
+      "borderColor": "#E6ECF2",
+      "borderEdges": [],
+      "borderRadius": 0,
+      "borderWidth": 1
+    },
+    "widgets": {
+      "container_1": {
+        "parameters": {
+          "alignmentX": "left",
+          "alignmentY": "top",
+          "fit": "fitwidth",
+          "image": {
+            "name": "soql_back_groundjpg3",
+            "namespace": ""
+          }
+        },
+        "type": "container"
+      },
+      "text_1": {
+        "parameters": {
+          "fontSize": 18,
+          "text": "* The main purpose of SOQL is to fetch data from Salesforce objects. SOQL can be used in the following places:\n                         1.The queryString parameter in the query() call\n                         2.Apex statements\n                         3.Visualforce controllers and the getter methods\n                         4.The schema explorer of the  Force.com IDE\n",
+          "textAlignment": "left",
+          "textColor": "#091A3E"
+        },
+        "type": "text"
+      },
+      "text_2": {
+        "parameters": {
+          "fontSize": 18,
+          "text": "Purpose of SOQL",
+          "textAlignment": "center",
+          "textColor": "#091A3E"
+        },
+        "type": "text"
+      }
+    }
+  },
+  "type": "dashboard",
+  "url": "/services/data/v42.0/wave/dashboards/0FK7F000000mgiCWAQ"
+}
